@@ -1,0 +1,4 @@
+1. Assuming that only one record with maximum temparature is available
+2. Duplicate removal is not handled
+3. If needed, if more than one record is having the same maximum temparature, latest date record can be returned(but not implemented)
+4. Input and output path has to be modified based on the code executing system
